@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "RiotDBTest", "RiotDBTest\RiotDBTest.sqlproj", "{3095468F-51E2-47F4-BE06-821FB48CD72A}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBTestForm", "DBTestForm\DBTestForm.csproj", "{A24C9B07-7F27-4BBA-9122-C2E9B838398A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeagueStatsForm", "DBTestForm\LeagueStatsForm.csproj", "{A24C9B07-7F27-4BBA-9122-C2E9B838398A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,12 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3095468F-51E2-47F4-BE06-821FB48CD72A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3095468F-51E2-47F4-BE06-821FB48CD72A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3095468F-51E2-47F4-BE06-821FB48CD72A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{3095468F-51E2-47F4-BE06-821FB48CD72A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3095468F-51E2-47F4-BE06-821FB48CD72A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3095468F-51E2-47F4-BE06-821FB48CD72A}.Release|Any CPU.Deploy.0 = Release|Any CPU
 		{A24C9B07-7F27-4BBA-9122-C2E9B838398A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A24C9B07-7F27-4BBA-9122-C2E9B838398A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A24C9B07-7F27-4BBA-9122-C2E9B838398A}.Release|Any CPU.ActiveCfg = Release|Any CPU
